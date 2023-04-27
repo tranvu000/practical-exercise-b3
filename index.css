@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 0 11vw 0 11vw;
+}
+.container {
+    min-width: 448px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    width: 48px;
+    height: 52px;
+}
+.icons {
+    width: 190px;
+    justify-content: space-between;
+    display: flex;
+}
+.icons.items {
+    width: 24px;
+    justify-content: space-between;
+    display: flex;
+}
